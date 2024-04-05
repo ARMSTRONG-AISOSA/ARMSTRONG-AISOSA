@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi,+Welcome+to+my+Github+Page;My+name+is+ARMSTRONG+Omoregie)](https://git.io/typing-svg)
 - 👋 Hi, I’m @ARMSTRONG-AISOSA
-- 👀 I am a Front-End Developer
+- 👀 I am a Front-End Web Developer
 - 🌱 i am always looking to collaborate on Front-end projects
 - 📫 How to reach me ...
 - Twitter - https://twitter.com/BossStrun
