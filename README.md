@@ -10,4 +10,4 @@
 
 <h2>My Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,node,postgress,sqlgit,github,react,materialui,bootstrap,tailwind,vscode,wordpress,figma,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,nodejs,postgressql,sql,git,github,react,materialui,bootstrap,tailwind,vscode,wordpress,figma,linux,)](https://skillicons.dev)
