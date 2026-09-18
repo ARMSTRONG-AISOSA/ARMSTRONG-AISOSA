@@ -18,8 +18,7 @@ I’m also open to **collaborating on interesting projects, contributing to open
 * 🗄️ Experienced with relational and NoSQL databases
 * 🔌 Experienced with RESTful API integration and backend development
 * 🐳 Interested in containerization and modern development workflows
-* 🦀 Currently expanding my knowledge of Rust
-* 🤝 Open to collaboration and interesting projects
+* 🤝 Open to collaboration and interesting projects; web, mobile etc.
 
 ---
 
@@ -98,7 +97,9 @@ I'm always interested in connecting with other developers, collaborating on proj
 * 🌐 **Portfolio:** https://bossstrong-dev.vercel.app/
 * 📝 **Blog:** https://bossstrong-dev.vercel.app/blog/
 * 💼 **LinkedIn:** https://www.linkedin.com/in/armstrong-omoregie-02367a271/
-* 🐦 **Twitter/X:** https://twitter.com/BossStrung
+* 🐦 **Facebook:** https://web.facebook.com/armstrong.omoregie
+* 🐦 **Instagram:** https://www.instagram.com/omoregiearmstrong/
+* 🐦 **Twitter/X:** https://twitter.com/BossStrung/
 * 📧 **Email:** [ammycan6@gmail.com](mailto:ammycan6@gmail.com)
 
 ---
