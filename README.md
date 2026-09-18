@@ -6,8 +6,9 @@
 - Twitter - https://twitter.com/BossStrung
 - LinkedIn -https://www.linkedin.com/in/armstrong-omoregie-02367a271/
 - Email - ammycan6@gmail.com
-- Website - https://armstrong-aisosa.github.io/personal-react-portfolio/
+- Website - https://bossstrong-dev.vercel.app/
+- Blog - https://bossstrong-dev.vercel.app/blog/
 
 <h2>My Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,rust,nodejs,expressjs,postman,postgresql,npm,supabase,firebase,mongodb,git,github,react,nextjs,materialui,bootstrap,tailwind,vite,vscode,wordpress,figma,linux,docker,notion,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,rust,nodejs,expressjs,postman,postgresql,npm,supabase,firebase,mongodb,git,github,react,nextjs,materialui,bootstrap,tailwind,vite,vscode,wordpress,figma,linux,docker,notion,claude,)](https://skillicons.dev)
