@@ -91,39 +91,6 @@ https://bossstrong-dev.vercel.app/
 
 ---
 
-## 🌱 Currently Learning & Exploring
-
-I'm continuously expanding my knowledge across the full development stack.
-
-Currently exploring:
-
-* 🦀 Rust
-* 🐘 Advanced PostgreSQL
-* 🔗 Backend architecture
-* 🐳 Docker & containerized applications
-* 🧪 Software testing
-* ☁️ Modern deployment workflows
-* 🎨 UI/UX design for SaaS applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BossStrung&show_icons=true&theme=tokyonight&hide_border=true" alt="Armstrong's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BossStrung&theme=tokyonight&hide_border=true" alt="Armstrong's GitHub Streak" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossStrung&layout=compact&theme=tokyonight&hide_border=true" alt="Armstrong's Most Used Languages" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with other developers, collaborating on projects, discussing ideas, and exploring opportunities to build useful products.
@@ -140,4 +107,4 @@ I'm always interested in connecting with other developers, collaborating on proj
 
 Thanks for stopping by my profile! 👋
 
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Feel free to connect with me.
