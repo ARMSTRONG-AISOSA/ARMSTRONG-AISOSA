@@ -34,7 +34,7 @@ I come from a Plant Biotechnology background and taught myself to code, and now 
 
 ### 📱 Mobile Development
 
-[![Mobile](https://skillicons.dev/icons?i=react,expo,ts,sqlite,reactquery)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=react,ts,sqlite)](https://skillicons.dev)
 
 ### ⚙️ Backend Development
 
@@ -50,7 +50,7 @@ I come from a Plant Biotechnology background and taught myself to code, and now 
 
 ### 🔧 Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,npm,postman,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,npm,bash,postman,vscode)](https://skillicons.dev)
 
 ### 🧪 Testing
 
@@ -58,7 +58,7 @@ I come from a Plant Biotechnology background and taught myself to code, and now 
 
 ### 🎨 Design & Productivity
 
-[![Design](https://skillicons.dev/icons?i=figma,canva,notion)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,notion)](https://skillicons.dev)
 
 ### 🌐 CMS
 
