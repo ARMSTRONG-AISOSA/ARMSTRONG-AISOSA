@@ -32,6 +32,12 @@ I come from a Plant Biotechnology background and taught myself to code, and now 
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,bootstrap,sass,vite,shadcn)](https://skillicons.dev)
 
+### 📱 Mobile Development
+
+[![Mobile](https://skillicons.dev/icons?i=react,expo,ts,sqlite,reactquery)](https://skillicons.dev)
+
+*React Native · Expo · TypeScript · SQLite · TanStack Query*
+
 ### ⚙️ Backend Development
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql)](https://skillicons.dev)
